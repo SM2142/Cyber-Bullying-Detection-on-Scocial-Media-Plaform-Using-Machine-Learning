@@ -1,0 +1,48 @@
+Here are the references with detailed information:
+1. https://www.researchgate.net/publication/366853253_Detection_of_Abusive_Bengali_Comments_for_Mixed_Social_Media_Data_Using_Machine_Learning
+Key Information:
+- Methodology for detecting abusive Bengali comments on mixed social media data.
+- Utilization of machine learning techniques for high accuracy and F1-score.
+- Insights into the challenges and solutions in detecting abusive content in Bengali.
+
+2. https://www.researchgate.net/publication/369924719_Interpretable_Multi_Labeled_Bengali_Toxic_Comments_Classification_using_Deep_Learning
+Key Information:
+- Development of interpretable models for Bengali toxic comments classification.
+- Deep learning approaches tailored for Bengali language processing.
+- Importance of model interpretability and its implications in toxic content moderation.
+
+3. chrome-extension://mhnlakgilnojmhinhkckjpncpbhabphi/pages/pdf/web/viewer.html?file=https%3A%2F%2Farxiv.org%2Fpdf%2F2304.04087
+Key Information:
+- Challenges unique to toxicity detection in Bengali social media comments.
+- Deep learning methodologies adapted for Bengali text processing.
+- Strategies for improving toxicity detection performance in Bengali text data.
+
+4. https://www.semanticscholar.org/paper/Toxicity-Detection-on-Bengali-Social-Media-Comments-Banik-Rahman/01064166f229ab7c56fbdf328f1e4cd1d8b40789
+Key Information:
+- Methodologies and algorithms for toxicity detection in Bengali social media comments.
+- Evaluation metrics and benchmarks for assessing toxicity detection performance.
+- Practical implications for implementing toxicity detection systems in Bengali social media platforms.
+
+5. https://www.linkedin.com/pulse/using-machine-learning-text-classification-case-bengali-ndzomga/
+Key Information:
+- Applications of machine learning in Bengali text classification tasks.
+- Understanding of data preprocessing and feature engineering for Bengali text.
+- Challenges and considerations specific to machine learning applications in Bengali language processing.
+
+6. chrome-extension://mhnlakgilnojmhinhkckjpncpbhabphi/pages/pdf/web/viewer.html?file=https%3A%2F%2Fwww.scirp.org%2Fpdf%2Fjilsa_2023110315055453.pdf
+Key Information:
+- Frameworks and techniques for offensive language detection in Bengali text.
+- Identification of linguistic features and patterns indicative of offensive language.
+- Performance evaluation and benchmarking methods for offensive language detection models.
+
+7. https://www.scirp.org/journal/paperinformation?paperid=128872
+Key Information:
+- Methodological approaches to offensive language detection in Bengali social media comments.
+- Insights into the effectiveness of machine learning models for offensive language detection.
+- Implications for moderating offensive content in Bengali social media platforms.
+
+8. chrome-extension://mhnlakgilnojmhinhkckjpncpbhabphi/pages/pdf/web/viewer.html?file=https%3A%2F%2Farxiv.org%2Fpdf%2F2304.04087
+Key Information:
+- Understanding the challenges in toxicity detection on Bengali social media.
+- Exploration of deep learning methodologies for toxicity detection in Bengali text data.
+- Practical strategies for improving the performance of toxicity detection systems in Bengali social media platforms.
