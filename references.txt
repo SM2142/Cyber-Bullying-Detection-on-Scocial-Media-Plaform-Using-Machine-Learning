@@ -1,48 +1,18 @@
-Here are the references with detailed information:
-1. https://www.researchgate.net/publication/366853253_Detection_of_Abusive_Bengali_Comments_for_Mixed_Social_Media_Data_Using_Machine_Learning
-Key Information:
-- Methodology for detecting abusive Bengali comments on mixed social media data.
-- Utilization of machine learning techniques for high accuracy and F1-score.
-- Insights into the challenges and solutions in detecting abusive content in Bengali.
+[1] Cyberbullying. (n.d.). https://en.wikipedia.org/wiki/Cyberbullying
 
-2. https://www.researchgate.net/publication/369924719_Interpretable_Multi_Labeled_Bengali_Toxic_Comments_Classification_using_Deep_Learning
-Key Information:
-- Development of interpretable models for Bengali toxic comments classification.
-- Deep learning approaches tailored for Bengali language processing.
-- Importance of model interpretability and its implications in toxic content moderation.
+[2] Cyberbullying – Law and Legal Definitions US Legal.
 
-3. chrome-extension://mhnlakgilnojmhinhkckjpncpbhabphi/pages/pdf/web/viewer.html?file=https%3A%2F%2Farxiv.org%2Fpdf%2F2304.04087
-Key Information:
-- Challenges unique to toxicity detection in Bengali social media comments.
-- Deep learning methodologies adapted for Bengali text processing.
-- Strategies for improving toxicity detection performance in Bengali text data.
+[3] An Educator’s Guide to Cyberbullying Brown Senate.gov, archived from
+the original on April 10, 2011
 
-4. https://www.semanticscholar.org/paper/Toxicity-Detection-on-Bengali-Social-Media-Comments-Banik-Rahman/01064166f229ab7c56fbdf328f1e4cd1d8b40789
-Key Information:
-- Methodologies and algorithms for toxicity detection in Bengali social media comments.
-- Evaluation metrics and benchmarks for assessing toxicity detection performance.
-- Practical implications for implementing toxicity detection systems in Bengali social media platforms.
+[4] E. J. K. S. T. P. R. A. Eri Eli lavindi, ”Cyber-bullying Detection based on Machine Learning Method(CaseStudy: Instagram Comment Section),”Journal of Applied Information and Communication Technologies, vol.8, pp. 223-226, 2023.
 
-5. https://www.linkedin.com/pulse/using-machine-learning-text-classification-case-bengali-ndzomga/
-Key Information:
-- Applications of machine learning in Bengali text classification tasks.
-- Understanding of data preprocessing and feature engineering for Bengali text.
-- Challenges and considerations specific to machine learning applications in Bengali language processing.
+[5] N. B. a. M. H. H. Rahman, ”Toxicity Detection on Bengali Social Media Comments using Supervised Models,” in 2019 2nd International Conference on Innovation in Engineering and Technology (ICIET),
+Dhaka, Bangladesh, 23-24 December 2019.
 
-6. chrome-extension://mhnlakgilnojmhinhkckjpncpbhabphi/pages/pdf/web/viewer.html?file=https%3A%2F%2Fwww.scirp.org%2Fpdf%2Fjilsa_2023110315055453.pdf
-Key Information:
-- Frameworks and techniques for offensive language detection in Bengali text.
-- Identification of linguistic features and patterns indicative of offensive language.
-- Performance evaluation and benchmarking methods for offensive language detection models.
 
-7. https://www.scirp.org/journal/paperinformation?paperid=128872
-Key Information:
-- Methodological approaches to offensive language detection in Bengali social media comments.
-- Insights into the effectiveness of machine learning models for offensive language detection.
-- Implications for moderating offensive content in Bengali social media platforms.
+[6] M. R. M. H. N. a. S. M. M. H. C. S. Ahammed, ”Implementation of Machine Learning to Detect Hate Speech in Bangla Language,” 8th International Conference System Modeling and Advancement in Research Trends (SMART), India,doi:10.1109/SMART46866.2019.9117214, pp. 317-320, 2019.
 
-8. chrome-extension://mhnlakgilnojmhinhkckjpncpbhabphi/pages/pdf/web/viewer.html?file=https%3A%2F%2Farxiv.org%2Fpdf%2F2304.04087
-Key Information:
-- Understanding the challenges in toxicity detection on Bengali social media.
-- Exploration of deep learning methodologies for toxicity detection in Bengali text data.
-- Practical strategies for improving the performance of toxicity detection systems in Bengali social media platforms.
+ [7] K. A. U. a. M. M. A. P. A. Akhter, ”Cyber Bullying Detection and Classification using Multinomial Naive Bayes and Fuzzy Logic,” Int. J. Math. Sci. Comput, vol. 5, no. doi: 10.5815/ijmsc.2019.04.01, p. 1–12, 2019.
+
+ [8] S. B. C. a. A. H. R. R. Dalvi, ”Detecting A Twitter Cyberbullying Using Machine Learning,” 2020 4th International Conference on Intelligent Computing and Control Systems (ICICCS), Madurai, India no. doi: 10.1109/ICICCS48265.2020.pp. 297-301, 202
